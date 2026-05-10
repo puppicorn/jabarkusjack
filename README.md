@@ -1,6 +1,6 @@
 <h6 align="center">
 
-ᴵ ᵂᴬᴺᵀ ʸᵒᵘ ᵗᵒ ˡᵃˢᵗ ᵃ ˡᵒⁿᵍ ᵗᶦᵐᵉ .
+ᴵ ᵒᵘᵍʰᵗ ᵗᵒ ᵇᵉ ᶜʰᶦᵉᶠ . . . 
 
 ![profileviews](https://komarev.com/ghpvc/?username=jabarkusjack&label=hunters&color=ad4437)
 
@@ -21,4 +21,4 @@
 
 <a href="https://github.com/Welcome2Paradise">main</a> 
 
-ᵃˢ ˡᵒⁿᵍ ᵃˢ ʸᵒᵘ'ʳᵉ ᵃˡᶦᵛᵉ . . . ʰᵉ'ˡˡ ˡᵉᵃᵛᵉ ᵐᵉ .
+ᴵ ᶜᵃⁿ ˢᶦⁿᵍ ᶜ ˢʰᵃʳᵖ ᵎ
