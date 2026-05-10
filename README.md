@@ -29,5 +29,6 @@
 
 
 
+<h6 align="center">
 
-<img src="(https://github.com/Welcome2Paradise/Welcome2Paradise/blob/3e69eb1069d94b9a4862b62b252379de67609c4a/punchy.gif)" />.
+<img src="https://files.catbox.moe/ihx4hr.gif" width="200" />
