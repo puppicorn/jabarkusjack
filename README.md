@@ -28,7 +28,6 @@
 
 
 
-
 <h6 align="center">
 
-<img src="https://files.catbox.moe/cxrsij.gif" width="200" />
+<img src="https://files.catbox.moe/ihx4hr.gif" width="200" />
