@@ -2,7 +2,7 @@
 
 ᴵ ᵂᴬᴺᵀ ʸᵒᵘ ᵗᵒ ˡᵃˢᵗ ᵃ ˡᵒⁿᵍ ᵗᶦᵐᵉ .
 
-![profileviews](https://komarev.com/ghpvc/?username=jabarkusjack&label=stalkers&color=959595)
+![profileviews](https://komarev.com/ghpvc/?username=jabarkusjack&label=hunters&color=ad4437)
 
 <h6 align="center">
 
