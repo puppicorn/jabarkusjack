@@ -6,7 +6,7 @@
 
 <h6 align="center">
 
-<img src="https://files.catbox.moe/2rvgdv.gif" width="100" />.
+<img src="https://files.catbox.moe/2rvgdv.gif" width="200" />.
 
 
 <p align="center">
